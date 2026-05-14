@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-(https://www.youtube.com/@TheHexalyst)
+Visit my YouTube channel here at https://www.youtube.com/@TheHexalyst !
