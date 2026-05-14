@@ -8,5 +8,5 @@
 - 🏗️ Developing my Java knowledge
 - ⚙️ Improving skills
 
-🌐 Check me out!
-Visit my YouTube channel here at https://www.youtube.com/@TheHexalyst !
+## 🌐 Check me out!
+ Visit my YouTube channel here at https://www.youtube.com/@TheHexalyst !
