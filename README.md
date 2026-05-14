@@ -1,9 +1,12 @@
-## Hello!
-I am Hexalyst, a programmer who deals with
-- HTML
-- CSS
-- Python
+## Hi! I'm Hexalyst
+🤔 What I Do:
+- 💻 Focused on HTML, CSS, and Python
+- 📊 Collect data and examine them to make reports
 
-I also collect and examine data to build reports
+🛠️ Currently Working On:
+- 💻 Personal coding projects
+- 🏗️ Developing my Java knowledge
+- ⚙️ Improving skills
 
+🌐 Check me out!
 Visit my YouTube channel here at https://www.youtube.com/@TheHexalyst !
